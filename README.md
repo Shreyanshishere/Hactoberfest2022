@@ -3,6 +3,7 @@
 This is a Mobile Price Prediction Model made by Shreyansh Gupta.</h3>
 # Hacktoberfest 2022
 It is back again the time of the year to celebrate Hacktoberfest. This repository contains coding exercises that you can easily solve with basic knowledge in programming.
+The goal is to give back and contribute to open-source projects.
 
 <h3>What is Hacktoberfest?</h3>
 
